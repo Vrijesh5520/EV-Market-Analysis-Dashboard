@@ -255,39 +255,35 @@ Extracted meaningful business insights from visual analytics.
 
 ## Dashboard Overview
 
-```md
-![Dashboard Overview](screenshots/dashboard_overview.png)
-```
+<img width="1321" height="743" alt="dashboard_overview" src="https://github.com/user-attachments/assets/9b7b93f1-57de-4347-84d6-e04556d4971d" />
 
 ## Sales Analysis
 
-```md
-![Sales Analysis](screenshots/sales_analysis.png)
-```
+<img width="578" height="268" alt="sales_analysis" src="https://github.com/user-attachments/assets/a14bfa0c-26ee-4cb8-9ec1-1307470b865b" />
 
-## Battery Capacity Analysis
+## Battery Capacity & Driving Range Analysis
 
-```md
-![Battery Analysis](screenshots/battery_analysis.png)
-```
+<img width="1144" height="286" alt="battery_efficiency_ _driving_range_analysis" src="https://github.com/user-attachments/assets/e251ce8c-b93d-42b3-8343-329b52e64032" />
 
-## Price vs Range Analysis
+## Price vs Sales Analysis
 
-```md
-![Price vs Range](screenshots/price_vs_range.png)
-```
+<img width="590" height="282" alt="EV_price_vs_annual_sales_analysis" src="https://github.com/user-attachments/assets/fc5e4274-487b-4642-9e45-d8c54f75cf79" />
 
-## Market Segment Analysis
+## Safety vs Satisfaction Analysis
 
-```md
-![Market Segment](screenshots/market_segment.png)
-```
+<img width="580" height="283" alt="safety_vs_satisfaction_analysis" src="https://github.com/user-attachments/assets/3f80de69-766d-4e46-bddc-f73c5716722f" />
 
-## Customer Rating Analysis
+## Future Sales Prediction
 
-```md
-![Customer Rating](screenshots/customer_rating.png)
-```
+<img width="573" height="275" alt="future_sales_prediction" src="https://github.com/user-attachments/assets/21ab056f-3b28-4077-b8d6-635eb6ee3959" />
+
+## Warranty vs Customer Rating Analysis
+
+<img width="570" height="276" alt="warranty_vs_customer_rating_analysis" src="https://github.com/user-attachments/assets/7c9e5498-fa90-4a0b-bcf5-bb7fa9eb2d29" />
+
+## Top Model Reccomendation 
+
+<img width="572" height="273" alt="model_reccomendation_table" src="https://github.com/user-attachments/assets/6217a94b-1d6e-443a-83ca-566600981431" />
 
 ---
 
