@@ -359,4 +359,4 @@ The Electric Vehicle Analytics Dashboard successfully converts raw EV market dat
 
 # Author
 
-**Vrijesh Balam**
+**Vrijesh S. Balam**
