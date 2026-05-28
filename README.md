@@ -283,7 +283,7 @@ Extracted meaningful business insights from visual analytics.
 
 ## Top Model Reccomendation 
 
-<img width="572" height="273" alt="model_reccomendation_table" src="https://github.com/user-attachments/assets/6217a94b-1d6e-443a-83ca-566600981431" />
+<img width="572" height="273" alt="model_recommendation_table" src="https://github.com/user-attachments/assets/85d690b6-59d0-4354-8ae3-45789a3eef88" />
 
 ---
 
